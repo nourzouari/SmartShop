@@ -1,0 +1,31 @@
+# Fichiers sensibles Firebase
+google-services.json
+google-services*.json
+
+# Fichiers Android
+*.keystore
+*.jks
+local.properties
+
+# Environnements de développement
+.idea/
+*.iml
+.gradle/
+build/
+captures/
+.externalNativeBuild
+.cxx/
+
+# Fichiers générés
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Fichiers de cache
+.cache/
+*.log
+
+
+# Windows
+Thumbs.db
